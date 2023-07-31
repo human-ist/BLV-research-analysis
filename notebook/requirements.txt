@@ -1,0 +1,8 @@
+# NLP
+nltk==3.8.1
+
+# Viz
+plotly==5.15.0
+kaleido==0.2.1
+UpSetPlot==0.8.0
+distinctipy==1.2.2

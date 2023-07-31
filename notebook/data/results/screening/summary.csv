@@ -1,0 +1,11 @@
+operation,type,nb rows
+Load dataset,N/A,3366
+Remove N/A abstract,automatic,4
+Remove N/A references,automatic,18
+Remove N/A document type,automatic,0
+Remove no query terms in TAK,manual,22
+Remove review papers,manual,41
+Remove out of scope,manual,88
+Remove not more popular,manual,2302
+Remove no more connected,manual,11
+Export dataset,N/A,880
